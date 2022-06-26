@@ -1,0 +1,89 @@
+/* //mobile */
+
+@media (min-width : 320px) and (max-width : 767px) {
+
+        header {
+                display: none;
+        }
+
+        .nav-bar .right span {
+                display: none;
+        }
+
+        .nav-bar .right .mag-class {
+                display: none;
+        }
+
+        .nav-bar .menu {
+                font-size: 22px;
+                cursor: pointer;
+                margin-right: 10px;
+        }
+
+        .nav-bar .mg {
+                font-size: 18px;
+                cursor: pointer;
+                margin-left: 10px;
+        }
+
+        .links {
+                display: none;
+        }
+
+        .nav-bar .right i sup {
+                right: 16%;
+        }
+
+        .nav-bar .right i:nth-child(3) {
+                display: none;
+
+        }
+
+        /* SLIDER */
+
+        .slider .text {
+                top: 10%;
+                left: 12%;
+        }
+
+        .slider .text p {
+                font-size: 15px;
+        }
+
+        .slider .text h1 {
+                font-size: 33px;
+        }
+
+        .slider .text button {
+                padding: 10px 20px;
+                font-size: 14px;
+        }
+
+
+        /* signup */
+
+        .foot{
+                margin-left: 15px;
+        }
+
+        .sign-up .form .input-text {
+                width:100%;
+                margin-bottom: 30px;
+        }
+
+        .sign-up .form button{
+                width: 100%;
+                margin-left: 0px;
+        }
+
+        footer .contact-us h1{
+                font-size: 17px;
+                margin-bottom: 0px;
+        }
+
+
+        
+
+
+}
+
